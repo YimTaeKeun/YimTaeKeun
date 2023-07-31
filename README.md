@@ -1,5 +1,4 @@
 # Yim Taekeun
-**Kookmin** Univ. [Department of Computer Science](https://cs.kookmin.ac.kr) 23 / [KOSS](https://github.com/kmu-koss) (**K**ookmin_Univ. **O**penSource **S**oftware **S**ociety)
 <br>
 <br>
 [![Solved.ac
