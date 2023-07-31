@@ -1,5 +1,5 @@
 # Yim Taekeun
-
+**Kookmin** Univ. [Department of Computer Science](https://cs.kookmin.ac.kr) 23 
 <br>
 <br>
 [![Solved.ac
