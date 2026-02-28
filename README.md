@@ -1,7 +1,8 @@
 <div align="center">
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Welcome!&fontSize=50)
+  <!--![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Welcome!&fontSize=50)-->
+  ![My Music](https://sound-badge.vercel.app/api/card.svg?url=https://www.youtube.com/watch?v=BCxTQq0UiFs&theme=stream)
   
 </div>
 
@@ -17,35 +18,37 @@
   ## 🧱 Tech Stack
   ### Language
   <!--Python-->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"/>
   <!--JavaScript-->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/>
   <!--HTML5-->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white"/>
   <!--CSS-->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff"/>
   <!--C++-->
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
   <!--JAVA-->
-  <img src="https://img.shields.io/badge/JAVA-00599C?style=flat-square&&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>
   <br/>
   
   ### Framework
+  <!--Spring Boot-->
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff"/>
   <!--Django-->
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white"/>
   <!--React-->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&Color=white"/>
   <!--Scrapy-->
-  <img src="https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white&Color=white"/>
+  <img src="https://img.shields.io/badge/Scrapy-60A839?logo=scrapy&logoColor=white&Color=white"/>
   <br/>
   
   ### ETC
   <!--Amazon AWS-->
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white"/>
   <!--MySQL-->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/>
   <!--Docker-->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
   <br/>
   <br/>
 
@@ -53,9 +56,9 @@
   [![Solved.ac Rating](http://mazassumnida.wtf/api/mini/generate_badge?boj=ytk030305)](https://solved.ac/ytk030305)
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YimTaeKeun)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=YimTaeKeun)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YimTaeKeun)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YimTaeKeun)](https://github.com/anuraghazra/github-readme-stats)
   
   
  
