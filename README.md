@@ -1,10 +1,4 @@
-<div align="center">
-  
-  <!--Header-->
-  <!--![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Welcome!&fontSize=50)-->
-  ![My Music](https://sound-badge.vercel.app/api/card.svg?url=https://www.youtube.com/watch?v=zCwKTzAERnQ&theme=stream)
-  
-</div>
+
 
 <div>
   <!--Body-->
@@ -56,9 +50,9 @@
   [![Solved.ac Rating](http://mazassumnida.wtf/api/mini/generate_badge?boj=ytk030305)](https://solved.ac/ytk030305)
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=YimTaeKeun)](https://github.com/anuraghazra/github-readme-stats)
+  [![TaeKeun's GitHub stats](https://github-stats-extended.vercel.app/api?username=YimTaeKeun)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YimTaeKeun)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=YimTaeKeun)](https://github.com/anuraghazra/github-readme-stats)
   
   
  
